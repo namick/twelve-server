@@ -1,0 +1,12 @@
+backups/
+world/
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+usernamecache.json
+whitelist.json
+crafttweaker.log
+crash-reports
+logs/
+journeymap/
