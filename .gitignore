@@ -1,5 +1,6 @@
 backups/
 world/
+world*
 banned-ips.json
 banned-players.json
 ops.json
@@ -10,3 +11,4 @@ crafttweaker.log
 crash-reports
 logs/
 journeymap/
+local/
